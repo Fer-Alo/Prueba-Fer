@@ -1,0 +1,4 @@
+#vamos a ignorar el siguiente archivo
+*.txt
+!readme.txt
+fotos/
